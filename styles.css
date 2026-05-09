@@ -1,0 +1,51 @@
+body, ul, li, h1, h2, h3 a{
+  margin: 0;
+  padding: 0;
+  font-family: optima;
+}
+p{
+  font-size: 24px;
+}
+
+.container
+{
+  background-color: white; 
+ ;
+  
+}
+.container-fluid
+{
+  background-color: #f5f1f6; 
+  text-align: center; 
+    color: #721682;
+  
+}
+.container-fluid2
+{
+  background-color: #721682; 
+  color: antiquewhite;
+}
+
+.navbar {
+    background-color: #721682; 
+    color: whitesmoke;
+    font-size: 30px;
+    
+}
+.navbar .nav-link {
+    color: #FFFFFF; /* Desired text color */
+}   
+
+.Invitation
+{
+background-color: #721682;
+color: white;
+text-align: center;
+}
+
+.footer
+{
+background-color: #721682;
+color: white;
+text-align: center;
+}
